@@ -1,4 +1,4 @@
-# Onboarding - Shamim's Portfolio site
+# Onboarding - Irfanul Islam Portfolio site
 
 This site is created by Shamim Hossain who is a full-stack developer and a tech enthusiast currently working as frontend lead @secureship inc. He loves to build products that help people to solve their problems. He is also a big fan of open-source and loves to contribute to open-source projects. So if you want to build your dream product faster with industry-standard tools and best practices then you are in the right place.
 
@@ -42,5 +42,3 @@ You can preview the production build with `npm run preview`.
 ## Vercel deployment
 
 [Check here](https://vercel.com/guides/how-can-i-use-bitbucket-pipelines-with-vercel#configuring-bitbucket-pipelines-for-vercel)
-
-[Twitter](https://twitter.com/shamscorner)
