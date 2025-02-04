@@ -490,61 +490,33 @@ type RootTranslation = {
 					title: string
 					items: {
 						/**
-						 * E​l​e​c​t​r​o​n
+						 * F​l​u​t​t​e​r
 						 */
 						'0': string
 						/**
-						 * F​l​u​t​t​e​r
+						 * P​y​t​h​o​n
 						 */
 						'1': string
 						/**
-						 * P​y​t​h​o​n
+						 * S​c​i​k​i​t​ ​L​e​a​r​n
 						 */
 						'2': string
 						/**
-						 * T​e​n​s​o​r​f​l​o​w
+						 * D​a​t​a​ ​m​i​n​i​n​g
 						 */
 						'3': string
 						/**
-						 * S​c​i​k​i​t​ ​L​e​a​r​n
+						 * D​o​c​k​e​r
 						 */
 						'4': string
 						/**
-						 * D​a​t​a​ ​m​i​n​i​n​g
+						 * G​i​t​h​u​b​ ​A​u​t​o​m​a​t​i​o​n
 						 */
 						'5': string
 						/**
-						 * M​a​c​h​i​n​e​ ​l​e​a​r​n​i​n​g
+						 * C​+​+
 						 */
 						'6': string
-						/**
-						 * D​o​c​k​e​r
-						 */
-						'7': string
-						/**
-						 * G​i​t​h​u​b​ ​A​u​t​o​m​a​t​i​o​n
-						 */
-						'8': string
-						/**
-						 * A​W​S
-						 */
-						'9': string
-						/**
-						 * A​z​u​r​e
-						 */
-						'10': string
-						/**
-						 * G​C​P
-						 */
-						'11': string
-						/**
-						 * C​I​/​C​D
-						 */
-						'12': string
-						/**
-						 * K​u​b​e​r​n​e​t​e​s
-						 */
-						'13': string
 					}
 				}
 			}
@@ -2411,61 +2383,33 @@ export type TranslationFunctions = {
 					title: () => LocalizedString
 					items: {
 						/**
-						 * Electron
+						 * Flutter
 						 */
 						'0': () => LocalizedString
 						/**
-						 * Flutter
+						 * Python
 						 */
 						'1': () => LocalizedString
 						/**
-						 * Python
+						 * Scikit Learn
 						 */
 						'2': () => LocalizedString
 						/**
-						 * Tensorflow
+						 * Data mining
 						 */
 						'3': () => LocalizedString
 						/**
-						 * Scikit Learn
+						 * Docker
 						 */
 						'4': () => LocalizedString
 						/**
-						 * Data mining
+						 * Github Automation
 						 */
 						'5': () => LocalizedString
 						/**
-						 * Machine learning
+						 * C++
 						 */
 						'6': () => LocalizedString
-						/**
-						 * Docker
-						 */
-						'7': () => LocalizedString
-						/**
-						 * Github Automation
-						 */
-						'8': () => LocalizedString
-						/**
-						 * AWS
-						 */
-						'9': () => LocalizedString
-						/**
-						 * Azure
-						 */
-						'10': () => LocalizedString
-						/**
-						 * GCP
-						 */
-						'11': () => LocalizedString
-						/**
-						 * CI/CD
-						 */
-						'12': () => LocalizedString
-						/**
-						 * Kubernetes
-						 */
-						'13': () => LocalizedString
 					}
 				}
 			}

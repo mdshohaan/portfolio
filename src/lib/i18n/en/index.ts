@@ -183,7 +183,6 @@ const en: BaseTranslation = {
 						'Firebase',
 						'Supabase',
 						'Convex',
-
 						'PostgreSQL',
 						'MongoDB'
 					]
@@ -191,20 +190,16 @@ const en: BaseTranslation = {
 				{
 					title: 'Others',
 					items: [
-						'Electron',
 						'Flutter',
 						'Python',
-						'Tensorflow',
+
 						'Scikit Learn',
 						'Data mining',
-						'Machine learning',
+
 						'Docker',
 						'Github Automation',
-						'AWS',
-						'Azure',
-						'GCP',
-						'CI/CD',
-						'Kubernetes'
+
+						'C++'
 					]
 				}
 			],
