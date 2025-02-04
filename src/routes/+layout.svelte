@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
 	import type { FpType } from '@shamscorner/shared';
 	import {
 		getFromLocalStorageWithExpiry,
@@ -7,11 +6,10 @@
 	} from '@shamscorner/shared';
 	import { inject as injectVercelAnalytics } from '@vercel/analytics';
 	import { injectSpeedInsights } from '@vercel/speed-insights/sveltekit';
+	import { onMount } from 'svelte';
 
 	import { dev } from '$app/environment';
-	// import Analytics from '@shamscorner/svelte-shared/components/Analytics';
 	import { page } from '$app/stores';
-	// import { PUBLIC_GOOGLE_TAG_MEASUREMENT_ID } from '$env/static/public';
 	import { setLocale } from '$lib/i18n/i18n-svelte';
 
 	import type { LayoutData } from './$types';
@@ -58,7 +56,5 @@
 		localStorage.setItem('fp', JSON.stringify(fpObj));
 	}
 </script>
-
-<!-- <Analytics gtagMeasurementId={PUBLIC_GOOGLE_TAG_MEASUREMENT_ID} /> -->
 
 <slot />

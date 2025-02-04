@@ -26,8 +26,7 @@
 <MeAtAGlance />
 <PastWorkingExperiences />
 <WhatWorksIDo />
-<!-- <ProjectShowcase /> -->
-<!-- <WhatOthersSaying /> -->
+
 <ThingsIWantToLearn />
 <Faqs />
 <LetsGetStarted data={data.form} />
