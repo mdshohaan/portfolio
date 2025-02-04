@@ -1,6 +1,9 @@
+import { Resend } from 'resend';
+
 import { CONTACT_ME_EMAIL } from '$env/static/private';
 
-import { resend } from './email.service';
+// Initialize Resend instance with your API key
+const resend = new Resend('your-api-key'); // Replace with your actual API key
 
 export async function sendContactMeEmail({
 	email,
@@ -13,6 +16,7 @@ export async function sendContactMeEmail({
 }): Promise<boolean> {
 	try {
 		await resend.emails.send({
+			// Using the correct method
 			from: 'onboarding@resend.dev',
 			to: CONTACT_ME_EMAIL,
 			subject: 'Contact Me (Respond)!',

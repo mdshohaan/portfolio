@@ -69,7 +69,7 @@ type RootTranslation = {
 		 */
 		email: string
 		/**
-		 * F​u​l​l​-​s​t​a​c​k​ ​d​e​v​e​l​o​p​e​r​ ​@​s​h​a​m​s​c​o​r​n​e​r​ ​U​S​A
+		 * F​u​l​l​-​s​t​a​c​k​ ​d​e​v​e​l​o​p​e​r​ ​@​s​h​a​m​s​c​o​r​n​e​r​ ​N​e​w​ ​Y​o​r​k
 		 */
 		designation: string
 		/**
@@ -1962,7 +1962,7 @@ export type TranslationFunctions = {
 		 */
 		email: () => LocalizedString
 		/**
-		 * Full-stack developer @shamscorner USA
+		 * Full-stack developer @shamscorner New York
 		 */
 		designation: () => LocalizedString
 		/**
