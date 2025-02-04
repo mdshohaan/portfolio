@@ -86,7 +86,7 @@
 		"@builder.io/partytown": "^0.10.2",
 		"bits-ui": "^0.21.13",
 		"clsx": "^2.1.1",
-		"dotenv": "^16.4.5",
+		"dotenv": "^16.4.7",
 		"formsnap": "^1.0.1",
 		"lucide-svelte": "^0.441.0",
 		"sharp": "^0.33.5",

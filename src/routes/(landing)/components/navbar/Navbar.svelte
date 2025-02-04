@@ -1,5 +1,5 @@
 <script lang="ts">
-	// import Logo from '$lib/components/common/logo.svelte';
+	import Logo from '$lib/components/common/logo.svelte';
 	import { LL } from '$lib/i18n/i18n-svelte';
 
 	import SideNavigationSheet from './side-navigation-sheet.svelte';
@@ -9,8 +9,8 @@
 	<nav
 		class="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 xl:px-0"
 	>
-		<!-- <Logo class="shrink-0 grow-0" /> -->
-		<span class="text-lg font-semibold"> Irfanul Islam</span>
+		<Logo class="shrink-0 grow-0" />
+
 		<ul
 			class="ml-auto hidden items-center justify-between gap-8 text-sm font-semibold md:flex"
 		>

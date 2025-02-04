@@ -8,12 +8,12 @@
 	title={$LL.appLogo.hrefTitle()}
 	class={cn('flex items-end gap-1', $$restProps.class)}
 >
-	<img
+	<!-- <img
 		src="/logo.svg"
 		width="24"
 		height="24"
 		alt={$LL.appLogo.alt()}
 		class="-translate-y-1"
-	/>
-	<span class="font-mono text-lg font-bold">amim Hossain</span>
+	/> -->
+	<span class="font-mono text-lg font-bold">Irfanul Islam</span>
 </a>
