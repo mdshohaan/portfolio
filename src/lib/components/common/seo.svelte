@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Seo from '@shamscorner/svelte-shared/components/Seo';
 
-	import { PUBLIC_LANDING_PAGE } from '$env/static/public';
+	// Importing the environment variable
 	import { LL } from '$lib/i18n/i18n-svelte';
 
 	export let title: string;
@@ -13,7 +13,7 @@
 	{title}
 	{description}
 	{keywords}
-	publicLandingPage={PUBLIC_LANDING_PAGE}
+	publicLandingPage={import.meta.env.VITE_PUBLIC_LANDING_PAGE}
 	schemaMarkup={$LL.schemaMarkup}
 	appName={$LL.appName()}
 />
