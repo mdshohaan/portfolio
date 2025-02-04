@@ -21,10 +21,10 @@ const profile = {
 	email: 'irfanulislamdu@gmail.com',
 	designation: 'Full-stack developer @shamscorner',
 	upworkLink: 'https://www.upwork.com/freelancers/~017677c090f8fd7a34',
-	facebookLink: 'https://www.facebook.com/shamscorner',
-	xLink: 'https://x.com/shamscorner',
-	linkedinLink: 'https://www.linkedin.com/in/shamscorner',
-	githubLink: 'https://github.com/shamscorner'
+	facebookLink: 'https://www.facebook.com/Mdshohaan',
+	xLink: 'https://x.com/IslamIrfan20544',
+	linkedinLink: 'https://www.linkedin.com/in/mohammadirfanulislam/',
+	githubLink: 'https://github.com/mdshohaan'
 };
 
 const en: BaseTranslation = {
@@ -52,11 +52,11 @@ const en: BaseTranslation = {
 				name: 'Irfanul Islam'
 			}
 		],
-		foundingDate: '2021-07-04',
+		foundingDate: '2025-07-04',
 		contactPoint: [
 			{
 				type: 'ContactPoint',
-				email: 'contact@shamscorner.com',
+				email: 'irfanulislamdu@gmail.com',
 				telephone: '',
 				contactType: 'customer service'
 			}
@@ -108,7 +108,7 @@ const en: BaseTranslation = {
 				},
 				{
 					title: 'Job Experience',
-					value: '1 years'
+					value: '1 year'
 				},
 				{
 					title: 'Total Jobs',
@@ -159,8 +159,8 @@ const en: BaseTranslation = {
 					title: 'Frontend',
 					items: [
 						'SvelteKit',
-						'Vue',
-						'Nuxt',
+						'ReactJS',
+						'NextJS',
 						'Astro',
 						'TailwindCSS',
 						'Vuetify',
@@ -168,7 +168,7 @@ const en: BaseTranslation = {
 						'Typescript',
 						'Material Design',
 						'Vite',
-						'Websocket',
+						'DaisyUI',
 						'SSR',
 						'SSG',
 						'SPA',
@@ -178,22 +178,14 @@ const en: BaseTranslation = {
 				{
 					title: 'Backend',
 					items: [
-						'NestJS',
 						'Express',
-						'Fastify',
+
 						'Firebase',
 						'Supabase',
-						'Appwrite',
-						'DGraph',
-						'Prisma',
-						'Graphbase',
-						'GraphQL',
-						'MySQL',
-						'SQLite',
+						'Convex',
+
 						'PostgreSQL',
-						'MongoDB',
-						'Redis',
-						'Microservices'
+						'MongoDB'
 					]
 				},
 				{

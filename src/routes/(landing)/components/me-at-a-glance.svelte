@@ -1,7 +1,7 @@
 <script lang="ts">
 	import Image from '@zerodevx/svelte-img';
 
-	import MyPhoto from '$lib/assets/images/me.png?as=run:0';
+	import MyPhoto from '$lib/assets/images/MyPhoto.jpg?as=run:0';
 	import { Heading } from '$lib/components/ui/heading';
 	import { LL } from '$lib/i18n/i18n-svelte';
 	import { cn } from '$lib/utils';
@@ -17,7 +17,7 @@
 			src={MyPhoto}
 			alt={$LL.meAtAGlance.profilePicture.alt()}
 			loading="lazy"
-			class="w-96"
+			class="w-[500px]"
 		/>
 
 		<ul class="space-y-4 md:space-y-0">

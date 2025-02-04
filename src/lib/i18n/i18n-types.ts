@@ -77,19 +77,19 @@ type RootTranslation = {
 		 */
 		upworkLink: string
 		/**
-		 * h​t​t​p​s​:​/​/​w​w​w​.​f​a​c​e​b​o​o​k​.​c​o​m​/​s​h​a​m​s​c​o​r​n​e​r
+		 * h​t​t​p​s​:​/​/​w​w​w​.​f​a​c​e​b​o​o​k​.​c​o​m​/​M​d​s​h​o​h​a​a​n
 		 */
 		facebookLink: string
 		/**
-		 * h​t​t​p​s​:​/​/​x​.​c​o​m​/​s​h​a​m​s​c​o​r​n​e​r
+		 * h​t​t​p​s​:​/​/​x​.​c​o​m​/​I​s​l​a​m​I​r​f​a​n​2​0​5​4​4
 		 */
 		xLink: string
 		/**
-		 * h​t​t​p​s​:​/​/​w​w​w​.​l​i​n​k​e​d​i​n​.​c​o​m​/​i​n​/​s​h​a​m​s​c​o​r​n​e​r
+		 * h​t​t​p​s​:​/​/​w​w​w​.​l​i​n​k​e​d​i​n​.​c​o​m​/​i​n​/​m​o​h​a​m​m​a​d​i​r​f​a​n​u​l​i​s​l​a​m​/
 		 */
 		linkedinLink: string
 		/**
-		 * h​t​t​p​s​:​/​/​g​i​t​h​u​b​.​c​o​m​/​s​h​a​m​s​c​o​r​n​e​r
+		 * h​t​t​p​s​:​/​/​g​i​t​h​u​b​.​c​o​m​/​m​d​s​h​o​h​a​a​n
 		 */
 		githubLink: string
 	}
@@ -129,7 +129,7 @@ type RootTranslation = {
 			}
 		}
 		/**
-		 * 2​0​2​1​-​0​7​-​0​4
+		 * 2​0​2​5​-​0​7​-​0​4
 		 */
 		foundingDate: string
 		contactPoint: {
@@ -139,7 +139,7 @@ type RootTranslation = {
 				 */
 				type: string
 				/**
-				 * c​o​n​t​a​c​t​@​s​h​a​m​s​c​o​r​n​e​r​.​c​o​m
+				 * i​r​f​a​n​u​l​i​s​l​a​m​d​u​@​g​m​a​i​l​.​c​o​m
 				 */
 				email: string
 				telephone: string
@@ -288,7 +288,7 @@ type RootTranslation = {
 					 */
 					title: string
 					/**
-					 * 1​ ​y​e​a​r​s
+					 * 1​ ​y​e​a​r
 					 */
 					value: string
 				}
@@ -343,7 +343,7 @@ type RootTranslation = {
 					 */
 					icon: string
 					/**
-					 * h​t​t​p​s​:​/​/​w​w​w​.​f​a​c​e​b​o​o​k​.​c​o​m​/​s​h​a​m​s​c​o​r​n​e​r
+					 * h​t​t​p​s​:​/​/​w​w​w​.​f​a​c​e​b​o​o​k​.​c​o​m​/​M​d​s​h​o​h​a​a​n
 					 */
 					link: string
 				}
@@ -357,7 +357,7 @@ type RootTranslation = {
 					 */
 					icon: string
 					/**
-					 * h​t​t​p​s​:​/​/​x​.​c​o​m​/​s​h​a​m​s​c​o​r​n​e​r
+					 * h​t​t​p​s​:​/​/​x​.​c​o​m​/​I​s​l​a​m​I​r​f​a​n​2​0​5​4​4
 					 */
 					link: string
 				}
@@ -371,7 +371,7 @@ type RootTranslation = {
 					 */
 					icon: string
 					/**
-					 * h​t​t​p​s​:​/​/​w​w​w​.​l​i​n​k​e​d​i​n​.​c​o​m​/​i​n​/​s​h​a​m​s​c​o​r​n​e​r
+					 * h​t​t​p​s​:​/​/​w​w​w​.​l​i​n​k​e​d​i​n​.​c​o​m​/​i​n​/​m​o​h​a​m​m​a​d​i​r​f​a​n​u​l​i​s​l​a​m​/
 					 */
 					link: string
 				}
@@ -394,11 +394,11 @@ type RootTranslation = {
 						 */
 						'0': string
 						/**
-						 * V​u​e
+						 * R​e​a​c​t​J​S
 						 */
 						'1': string
 						/**
-						 * N​u​x​t
+						 * N​e​x​t​J​S
 						 */
 						'2': string
 						/**
@@ -430,7 +430,7 @@ type RootTranslation = {
 						 */
 						'9': string
 						/**
-						 * W​e​b​s​o​c​k​e​t
+						 * D​a​i​s​y​U​I
 						 */
 						'10': string
 						/**
@@ -458,69 +458,29 @@ type RootTranslation = {
 					title: string
 					items: {
 						/**
-						 * N​e​s​t​J​S
+						 * E​x​p​r​e​s​s
 						 */
 						'0': string
 						/**
-						 * E​x​p​r​e​s​s
+						 * F​i​r​e​b​a​s​e
 						 */
 						'1': string
 						/**
-						 * F​a​s​t​i​f​y
+						 * S​u​p​a​b​a​s​e
 						 */
 						'2': string
 						/**
-						 * F​i​r​e​b​a​s​e
+						 * C​o​n​v​e​x
 						 */
 						'3': string
 						/**
-						 * S​u​p​a​b​a​s​e
+						 * P​o​s​t​g​r​e​S​Q​L
 						 */
 						'4': string
 						/**
-						 * A​p​p​w​r​i​t​e
-						 */
-						'5': string
-						/**
-						 * D​G​r​a​p​h
-						 */
-						'6': string
-						/**
-						 * P​r​i​s​m​a
-						 */
-						'7': string
-						/**
-						 * G​r​a​p​h​b​a​s​e
-						 */
-						'8': string
-						/**
-						 * G​r​a​p​h​Q​L
-						 */
-						'9': string
-						/**
-						 * M​y​S​Q​L
-						 */
-						'10': string
-						/**
-						 * S​Q​L​i​t​e
-						 */
-						'11': string
-						/**
-						 * P​o​s​t​g​r​e​S​Q​L
-						 */
-						'12': string
-						/**
 						 * M​o​n​g​o​D​B
 						 */
-						'13': string
-						/**
-						 * R​e​d​i​s
-						 */
-						'14': string
-						/**
-						 * M​i​c​r​o​s​e​r​v​i​c​e​s
-						 */
-						'15': string
+						'5': string
 					}
 				}
 				'2': {
@@ -594,7 +554,7 @@ type RootTranslation = {
 				 */
 				title: string
 				/**
-				 * h​t​t​p​s​:​/​/​g​i​t​h​u​b​.​c​o​m​/​s​h​a​m​s​c​o​r​n​e​r
+				 * h​t​t​p​s​:​/​/​g​i​t​h​u​b​.​c​o​m​/​m​d​s​h​o​h​a​a​n
 				 */
 				link: string
 			}
@@ -2038,19 +1998,19 @@ export type TranslationFunctions = {
 		 */
 		upworkLink: () => LocalizedString
 		/**
-		 * https://www.facebook.com/shamscorner
+		 * https://www.facebook.com/Mdshohaan
 		 */
 		facebookLink: () => LocalizedString
 		/**
-		 * https://x.com/shamscorner
+		 * https://x.com/IslamIrfan20544
 		 */
 		xLink: () => LocalizedString
 		/**
-		 * https://www.linkedin.com/in/shamscorner
+		 * https://www.linkedin.com/in/mohammadirfanulislam/
 		 */
 		linkedinLink: () => LocalizedString
 		/**
-		 * https://github.com/shamscorner
+		 * https://github.com/mdshohaan
 		 */
 		githubLink: () => LocalizedString
 	}
@@ -2090,7 +2050,7 @@ export type TranslationFunctions = {
 			}
 		}
 		/**
-		 * 2021-07-04
+		 * 2025-07-04
 		 */
 		foundingDate: () => LocalizedString
 		contactPoint: {
@@ -2100,7 +2060,7 @@ export type TranslationFunctions = {
 				 */
 				type: () => LocalizedString
 				/**
-				 * contact@shamscorner.com
+				 * irfanulislamdu@gmail.com
 				 */
 				email: () => LocalizedString
 				telephone: () => LocalizedString
@@ -2249,7 +2209,7 @@ export type TranslationFunctions = {
 					 */
 					title: () => LocalizedString
 					/**
-					 * 1 years
+					 * 1 year
 					 */
 					value: () => LocalizedString
 				}
@@ -2304,7 +2264,7 @@ export type TranslationFunctions = {
 					 */
 					icon: () => LocalizedString
 					/**
-					 * https://www.facebook.com/shamscorner
+					 * https://www.facebook.com/Mdshohaan
 					 */
 					link: () => LocalizedString
 				}
@@ -2318,7 +2278,7 @@ export type TranslationFunctions = {
 					 */
 					icon: () => LocalizedString
 					/**
-					 * https://x.com/shamscorner
+					 * https://x.com/IslamIrfan20544
 					 */
 					link: () => LocalizedString
 				}
@@ -2332,7 +2292,7 @@ export type TranslationFunctions = {
 					 */
 					icon: () => LocalizedString
 					/**
-					 * https://www.linkedin.com/in/shamscorner
+					 * https://www.linkedin.com/in/mohammadirfanulislam/
 					 */
 					link: () => LocalizedString
 				}
@@ -2355,11 +2315,11 @@ export type TranslationFunctions = {
 						 */
 						'0': () => LocalizedString
 						/**
-						 * Vue
+						 * ReactJS
 						 */
 						'1': () => LocalizedString
 						/**
-						 * Nuxt
+						 * NextJS
 						 */
 						'2': () => LocalizedString
 						/**
@@ -2391,7 +2351,7 @@ export type TranslationFunctions = {
 						 */
 						'9': () => LocalizedString
 						/**
-						 * Websocket
+						 * DaisyUI
 						 */
 						'10': () => LocalizedString
 						/**
@@ -2419,69 +2379,29 @@ export type TranslationFunctions = {
 					title: () => LocalizedString
 					items: {
 						/**
-						 * NestJS
+						 * Express
 						 */
 						'0': () => LocalizedString
 						/**
-						 * Express
+						 * Firebase
 						 */
 						'1': () => LocalizedString
 						/**
-						 * Fastify
+						 * Supabase
 						 */
 						'2': () => LocalizedString
 						/**
-						 * Firebase
+						 * Convex
 						 */
 						'3': () => LocalizedString
 						/**
-						 * Supabase
+						 * PostgreSQL
 						 */
 						'4': () => LocalizedString
 						/**
-						 * Appwrite
-						 */
-						'5': () => LocalizedString
-						/**
-						 * DGraph
-						 */
-						'6': () => LocalizedString
-						/**
-						 * Prisma
-						 */
-						'7': () => LocalizedString
-						/**
-						 * Graphbase
-						 */
-						'8': () => LocalizedString
-						/**
-						 * GraphQL
-						 */
-						'9': () => LocalizedString
-						/**
-						 * MySQL
-						 */
-						'10': () => LocalizedString
-						/**
-						 * SQLite
-						 */
-						'11': () => LocalizedString
-						/**
-						 * PostgreSQL
-						 */
-						'12': () => LocalizedString
-						/**
 						 * MongoDB
 						 */
-						'13': () => LocalizedString
-						/**
-						 * Redis
-						 */
-						'14': () => LocalizedString
-						/**
-						 * Microservices
-						 */
-						'15': () => LocalizedString
+						'5': () => LocalizedString
 					}
 				}
 				'2': {
@@ -2555,7 +2475,7 @@ export type TranslationFunctions = {
 				 */
 				title: () => LocalizedString
 				/**
-				 * https://github.com/shamscorner
+				 * https://github.com/mdshohaan
 				 */
 				link: () => LocalizedString
 			}
