@@ -19,7 +19,7 @@ const common = {
 const profile = {
 	fullName: ' Irfanul Islam',
 	email: 'irfanulislamdu@gmail.com',
-	designation: 'Full-stack developer @shamscorner',
+	designation: 'Full-stack developer @shamscorner USA',
 	upworkLink: 'https://www.upwork.com/freelancers/~017677c090f8fd7a34',
 	facebookLink: 'https://www.facebook.com/Mdshohaan',
 	xLink: 'https://x.com/IslamIrfan20544',

@@ -61,7 +61,7 @@ type RootTranslation = {
 	}
 	profile: {
 		/**
-		 * I​r​f​a​n​u​l​ ​I​s​l​a​m
+		 *  ​I​r​f​a​n​u​l​ ​I​s​l​a​m
 		 */
 		fullName: string
 		/**
@@ -69,7 +69,7 @@ type RootTranslation = {
 		 */
 		email: string
 		/**
-		 * F​u​l​l​-​s​t​a​c​k​ ​d​e​v​e​l​o​p​e​r​ ​@​s​h​a​m​s​c​o​r​n​e​r
+		 * F​u​l​l​-​s​t​a​c​k​ ​d​e​v​e​l​o​p​e​r​ ​@​s​h​a​m​s​c​o​r​n​e​r​ ​U​S​A
 		 */
 		designation: string
 		/**
@@ -1954,7 +1954,7 @@ export type TranslationFunctions = {
 	}
 	profile: {
 		/**
-		 * Irfanul Islam
+		 *  Irfanul Islam
 		 */
 		fullName: () => LocalizedString
 		/**
@@ -1962,7 +1962,7 @@ export type TranslationFunctions = {
 		 */
 		email: () => LocalizedString
 		/**
-		 * Full-stack developer @shamscorner
+		 * Full-stack developer @shamscorner USA
 		 */
 		designation: () => LocalizedString
 		/**

@@ -21,6 +21,7 @@ export async function sendContactMeEmail({
 
 		return true;
 	} catch (error) {
+		console.error('Error sending email:', error);
 		return false;
 	}
 }
